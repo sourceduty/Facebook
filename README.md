@@ -16,7 +16,7 @@ The terms "Facebook" and "Yearbook" share a linguistic structure, both being com
 "Yearbook," on the other hand, combines "Year" and "Book" to denote a collection of memories, photos, and information associated with a specific time frame, typically within a school year. While "Facebook" takes inspiration from the concept of a yearbook, it reimagines it in a more dynamic, ever-updating format that transcends the limitations of time and space. The linguistic similarities between "Facebook" and "Yearbook" reflect a shared conceptual foundation, where both words evoke the idea of preserving and sharing personal history, but in vastly different contexts—one rooted in the physical and the other in the digital realm.
 
 #
-### High School Systems
+#### High School Systems
 
 Facebook's name strategically taps into the familiar and nostalgic concept of high school "yearbooks," a cultural artifact that plays a significant role in the lives of high school students. By naming the platform "Facebook," it subtly evokes the idea of a digital yearbook where students can continue to connect, share memories, and maintain social bonds beyond the classroom. This association with the yearbook concept creates an immediate connection with high school students, who are often in the process of forming and solidifying their social identities.
 
