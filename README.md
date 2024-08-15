@@ -52,7 +52,7 @@ Furthermore, the ongoing nature of Facebook's legal challenges means that the st
 Finally, the broader societal impact of Facebook’s legal challenges cannot be ignored. The costs of these legal battles are ultimately borne by taxpayers, who fund the courts and administrative bodies that manage these cases. Additionally, the legal system’s focus on these high-profile cases can divert attention and resources from other important legal matters, potentially delaying justice in other areas. This ongoing strain highlights the need for a more robust regulatory framework to manage the activities of tech giants like Facebook, reducing the need for protracted and costly legal battles in the future.
 
 #
-### Tolerating Facebook
+#### Tolerating Facebook
 
 The legal system's tolerance for Facebook, like many large corporations, is marked by a complex interplay of regulation, litigation, and enforcement. Facebook has faced numerous legal challenges, yet it continues to operate largely uninterrupted, reflecting a certain level of tolerance within the legal system. This tolerance can be partly attributed to the company’s size, influence, and economic significance. Courts and regulatory bodies often approach Facebook with a cautious balance, aiming to enforce the law while recognizing the potential economic and social disruptions that overly harsh penalties could cause. This cautious approach reflects an understanding of the broader implications of ruling against such a significant player in the digital economy.
 
