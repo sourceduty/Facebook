@@ -70,6 +70,10 @@ Moreover, the legal system's tolerance is also reflected in the relatively slow 
 However, this tolerance has its limits, as evidenced by the increasing scrutiny Facebook faces from both U.S. and international regulators. While the legal system has allowed Facebook to operate with a significant degree of autonomy, recent years have seen a tightening of this tolerance, with more aggressive antitrust actions and legislative proposals aimed at curbing the company’s influence. The legal system, while tolerant, is not infinitely so, and there appears to be a growing recognition that stronger regulatory frameworks are necessary to address the challenges posed by Facebook and similar corporations. This shift indicates a gradual but significant reassessment of how the legal system manages its tolerance for large tech companies, balancing the need for innovation and economic growth with the protection of public interests.
 
 #
+
+![Facebooks](https://github.com/user-attachments/assets/10e5d959-34f8-4930-8dad-defcd2e81c94)
+
+#
 ### Related Links
 
 [Twitter](https://github.com/sourceduty/Twitter)
