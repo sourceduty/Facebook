@@ -18,6 +18,8 @@ The terms "Facebook" and "Yearbook" share a linguistic structure, both being com
 #
 #### High School Systems
 
+![Zuck](https://github.com/user-attachments/assets/c63c9747-c8fc-4815-a1fe-4de66426c08e)
+
 Facebook's name strategically taps into the familiar and nostalgic concept of high school "yearbooks," a cultural artifact that plays a significant role in the lives of high school students. By naming the platform "Facebook," it subtly evokes the idea of a digital yearbook where students can continue to connect, share memories, and maintain social bonds beyond the classroom. This association with the yearbook concept creates an immediate connection with high school students, who are often in the process of forming and solidifying their social identities.
 
 The platform's name and design also mirror the structure of high school social systems, where popularity and social connections are highly valued. Facebook's emphasis on "friends," "likes," and the sharing of personal updates mimics the social dynamics of high school, appealing to students' desires for social validation and inclusion. By framing itself as an extension of the high school experience, Facebook capitalizes on the existing social structures and pressures that high school students face, making it an attractive and relatable platform for this demographic.
@@ -42,6 +44,8 @@ Facebook has implemented measures to combat fake ads, including an ad review pro
 
 #
 #### Facebook Shouldn't Exist
+
+![Bruce Zuckerberg](https://github.com/user-attachments/assets/65638f25-5d52-40a4-ab64-d4090aa0d059)
 
 Mark Zuckerberg, the CEO of Meta (formerly Facebook), has faced multiple legal challenges throughout his career, particularly related to Facebook's business practices. These legal battles range from lawsuits over data privacy violations to accusations of monopolistic behavior and unfair competition. One of the most prominent cases was the Cambridge Analytica scandal, where Facebook was accused of mishandling user data, leading to Zuckerberg testifying before Congress in 2018. Additionally, Facebook has been sued multiple times for its role in spreading misinformation and harmful content, with Zuckerberg often being the face of the company's defense in court.
 
