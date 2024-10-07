@@ -61,8 +61,6 @@ Public figure accounts, even when verified, are not immune to spreading deceptiv
 #
 #### Facebook Shouldn't Exist
 
-![Bruce Zuckerberg](https://github.com/user-attachments/assets/65638f25-5d52-40a4-ab64-d4090aa0d059)
-
 Mark Zuckerberg, the CEO of Meta (formerly Facebook), has faced multiple legal challenges throughout his career, particularly related to Facebook's business practices. These legal battles range from lawsuits over data privacy violations to accusations of monopolistic behavior and unfair competition. One of the most prominent cases was the Cambridge Analytica scandal, where Facebook was accused of mishandling user data, leading to Zuckerberg testifying before Congress in 2018. Additionally, Facebook has been sued multiple times for its role in spreading misinformation and harmful content, with Zuckerberg often being the face of the company's defense in court.
 
 Zuckerberg has also been involved in legal disputes concerning Facebook's acquisitions of other companies. For instance, the Federal Trade Commission (FTC) and several state attorneys general have brought antitrust lawsuits against Facebook, accusing it of stifling competition by acquiring potential rivals like Instagram and WhatsApp. These cases argue that Facebook's business practices have harmed both consumers and competitors, leading to a series of court appearances and legal defenses by Zuckerberg and his team.
@@ -101,6 +99,24 @@ Third-party services could be used to improve content moderation. For example, F
 Public participation can also play a vital role in reducing the spread of fake information. Platforms should empower users to report suspicious content and provide mechanisms for easy reporting, with a commitment to resolving such reports within a defined timeframe. Additionally, community-driven fact-checking initiatives, where reputable users help identify and flag misleading information, could be supported by platforms. At the same time, educational campaigns can raise awareness about the dangers of engaging with unverified accounts and content, helping users become more discerning and cautious when consuming information online.
 
 Lastly, transparency in advertising on social media platforms is essential for combating fake ads. Stricter approval processes for ads, particularly those related to sensitive topics like politics or health, should be put in place. Advertisers should be required to disclose more detailed information about who is funding these ads and the specific demographic groups being targeted. Restricting microtargeting of ads can further limit the ability of deceptive ads to reach vulnerable audiences. Collaboration at an international level, where governments set global standards for social media platforms, can also help close regulatory gaps and prevent the spread of fake information across borders.
+
+#
+### Mark Zuckerberg is Bruce Springsteen
+
+![Bruce Zuckerberg](https://github.com/user-attachments/assets/65638f25-5d52-40a4-ab64-d4090aa0d059)
+
+Mark Zuckerberg and Bruce Springsteen exhibit markedly different facial structures. Springsteen’s face is more angular with a prominent jawline and a longer, rectangular shape. This angularity gives him a rugged appearance that aligns well with his rock-and-roll persona. In contrast, Zuckerberg’s face has softer, rounder contours, particularly around the jaw and chin. This rounder face shape, combined with a broader chin area, lends him a more approachable and relaxed look, which contrasts with Springsteen’s intense and gritty style.
+
+Their eyes and noses also showcase distinct differences. Springsteen’s eyes are slightly narrower and more deep-set, often giving him a focused, intense expression. His nose is long and defined, which enhances the verticality of his face. Zuckerberg’s eyes, on the other hand, are larger and more open, creating a neutral and inviting appearance. His nose is shorter and less prominent, contributing to the softer lines of his face. Together, these features make Springsteen appear more intense and commanding, while Zuckerberg has a more casual, laid-back look.
+
+In terms of overall expression, Springsteen’s features often convey a sense of rugged charisma, with a mouth that forms a serious, almost determined look. Zuckerberg’s smile, however, is wider and more open, with fuller lips that lend him a friendly, approachable demeanor. While Springsteen’s expressions and defined features align with his rock star image, Zuckerberg’s rounder features and softer expression suit his public persona as a tech entrepreneur. Taking these observations into account, I’d rate the overall similarity of their facial features at 4/10, as their structural and expressive differences outweigh any subtle commonalities.
+
+#
+### Mark Zuckerberg Roasted
+
+Mark Zuckerberg looking like Bruce Springsteen is like a calculator trying to pass as a guitar. Springsteen’s got that rugged, rock-and-roll charisma—the kind that screams grit, sweat, and blue-collar Americana. Zuckerberg? Well, he’s got that wholesome tech-bro vibe, more likely to drop the latest software update than drop a hit single. The Boss could walk into any room and make you feel like you’re on the Jersey Shore with a cold beer in hand, while Zuck is more like the guy who shows up to remind you that the Wi-Fi needs a stronger password. If Bruce Springsteen looks like he’s ready to tell you stories about life, love, and heartbreak, Zuckerberg looks like he’s about to pitch a new app that collects your data and then tells you which Springsteen song you’re most like.
+
+And let’s be real: put them side by side, and it’s like seeing a leather jacket next to a fleece zip-up. Springsteen’s got the smoldering intensity, the kind of guy who could fix your car and then steal it if he felt like it. Meanwhile, Zuck’s got that open-mouthed grin like he’s just excited to be here—probably because he’s running low on data to mine. He might be able to code a social network, but rocking a stage with a guitar? That’s where the resemblance stops cold. Sorry, Zuckerberg, but even with a headband and a plaid shirt, you’d still look more at home at a Silicon Valley brainstorming session than in a Born to Run music video.
 
 #
 
