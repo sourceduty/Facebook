@@ -45,7 +45,7 @@ Facebook has implemented measures to combat fake ads, including an ad review pro
 #
 #### Meta Sunglasses
 
-![Zooming](https://github.com/user-attachments/assets/12c42bdb-d9cc-4848-a0ff-ed6eeb321b3a)
+![Meta](https://github.com/user-attachments/assets/6f71f560-c764-49d6-ad3a-98598a1ad948)
 
 Meta sunglasses are a type of wearable technology developed by Meta (formerly Facebook) that integrate augmented reality (AR) features into a stylish eyewear design. These smart glasses allow users to access digital information, interact with virtual content, and capture photos or videos, all while looking through traditional sunglasses lenses. Equipped with built-in cameras, microphones, and speakers, Meta sunglasses are designed to blend the functionality of a smartphone or other smart device with the convenience of eyewear. Users can listen to music, make phone calls, and access social media platforms hands-free, making these glasses a versatile tool for both entertainment and productivity.
 
