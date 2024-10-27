@@ -130,6 +130,15 @@ Mark Zuckerberg looking like Bruce Springsteen is like a calculator trying to pa
 And let’s be real: put them side by side, and it’s like seeing a leather jacket next to a fleece zip-up. Springsteen’s got the smoldering intensity, the kind of guy who could fix your car and then steal it if he felt like it. Meanwhile, Zuck’s got that open-mouthed grin like he’s just excited to be here—probably because he’s running low on data to mine. He might be able to code a social network, but rocking a stage with a guitar? That’s where the resemblance stops cold. Sorry, Zuckerberg, but even with a headband and a plaid shirt, you’d still look more at home at a Silicon Valley brainstorming session than in a Born to Run music video.
 
 #
+### Facebook Terminal
+
+![Terminal](https://github.com/user-attachments/assets/a9236e50-4d48-461e-b09a-94748ee51879)
+
+A retro terminal-style interface for managing Facebook Pages offers a minimalist, efficient approach to interact with Facebook's Graph API. It evokes the classic command-line experience, prioritizing functionality and speed over visual complexity, making it suitable for developers or users who prefer quick, keyboard-driven interactions. Users can post messages, retrieve and display recent posts, and even delete posts directly from the terminal, creating a streamlined, distraction-free environment for Facebook Page management. The interface provides a clear menu system that allows users to select options with simple numerical inputs, giving a sense of control and familiarity reminiscent of early computing systems. This setup not only minimizes the overhead associated with graphical interfaces but also ensures that the user remains focused on core tasks without the clutter of additional UI elements.
+
+By leveraging Python and the Facebook Graph API, this retro terminal interface bridges the gap between modern social media management and nostalgic computing aesthetics. It showcases how basic programming and API knowledge can be used to automate and simplify tasks that would otherwise require navigating Facebook’s platform manually. Designed for efficiency, the terminal interface integrates with Facebook securely, ensuring actions like posting or deleting content are executed promptly. The interface serves as a powerful tool for developers or social media managers who value simplicity and functionality over design, embodying a utilitarian approach that aligns well with command-line enthusiasts who prefer working in an environment free of unnecessary complexity.
+
+#
 
 > Alex: "*Facebook is very fake internally and externally.*"
 
