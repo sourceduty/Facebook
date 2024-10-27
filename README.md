@@ -112,7 +112,7 @@ Public participation can also play a vital role in reducing the spread of fake i
 Lastly, transparency in advertising on social media platforms is essential for combating fake ads. Stricter approval processes for ads, particularly those related to sensitive topics like politics or health, should be put in place. Advertisers should be required to disclose more detailed information about who is funding these ads and the specific demographic groups being targeted. Restricting microtargeting of ads can further limit the ability of deceptive ads to reach vulnerable audiences. Collaboration at an international level, where governments set global standards for social media platforms, can also help close regulatory gaps and prevent the spread of fake information across borders.
 
 #
-### Mark Zuckerberg is Bruce Springsteen
+#### Mark Zuckerberg is Bruce Springsteen
 
 ![Bruce Zuckerberg](https://github.com/user-attachments/assets/65638f25-5d52-40a4-ab64-d4090aa0d059)
 
@@ -123,7 +123,7 @@ Their eyes and noses also showcase distinct differences. Springsteen’s eyes ar
 In terms of overall expression, Springsteen’s features often convey a sense of rugged charisma, with a mouth that forms a serious, almost determined look. Zuckerberg’s smile, however, is wider and more open, with fuller lips that lend him a friendly, approachable demeanor. While Springsteen’s expressions and defined features align with his rock star image, Zuckerberg’s rounder features and softer expression suit his public persona as a tech entrepreneur. Taking these observations into account, I’d rate the overall similarity of their facial features at 4/10, as their structural and expressive differences outweigh any subtle commonalities.
 
 #
-### Mark Zuckerberg Roasted
+#### Mark Zuckerberg Roasted
 
 Mark Zuckerberg looking like Bruce Springsteen is like a calculator trying to pass as a guitar. Springsteen’s got that rugged, rock-and-roll charisma—the kind that screams grit, sweat, and blue-collar Americana. Zuckerberg? Well, he’s got that wholesome tech-bro vibe, more likely to drop the latest software update than drop a hit single. The Boss could walk into any room and make you feel like you’re on the Jersey Shore with a cold beer in hand, while Zuck is more like the guy who shows up to remind you that the Wi-Fi needs a stronger password. If Bruce Springsteen looks like he’s ready to tell you stories about life, love, and heartbreak, Zuckerberg looks like he’s about to pitch a new app that collects your data and then tells you which Springsteen song you’re most like.
 
