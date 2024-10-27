@@ -122,6 +122,10 @@ And let’s be real: put them side by side, and it’s like seeing a leather jac
 
 #
 
+Alex: "*Facebook is very fake internally and externally.*"
+
+#
+
 ![metabook](https://github.com/user-attachments/assets/02c460a9-f265-4d20-acf2-c5a4d0e28b16)
 
 #
