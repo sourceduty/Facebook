@@ -122,16 +122,12 @@ And let’s be real: put them side by side, and it’s like seeing a leather jac
 
 #
 
-Alex: "*Facebook is very fake internally and externally.*"
+> Alex: "*Facebook is very fake internally and externally.*"
 
 #
-
 ![metabook](https://github.com/user-attachments/assets/02c460a9-f265-4d20-acf2-c5a4d0e28b16)
-
 #
-
 ![Facebooks](https://github.com/user-attachments/assets/bfb2e4c9-de92-4d48-ac5d-9f6d4b125aed)
-
 #
 ### Related Links
 
