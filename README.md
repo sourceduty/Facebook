@@ -11,6 +11,8 @@ Facebook’s business model revolves around targeted advertising, leveraging its
 #
 #### Linguistics of "Facebook" and "Yearbook"
 
+![FB](https://github.com/user-attachments/assets/fb219383-c466-482c-af67-2ce2d3f2a56e)
+
 The terms "Facebook" and "Yearbook" share a linguistic structure, both being compound words formed by combining two nouns. In "Facebook," "Face" refers to the human face, symbolizing personal identity, while "Book" suggests a collection or repository of information. Together, the word conjures an image of a digital space where individuals’ identities are cataloged and accessible, much like flipping through pages in a traditional book. This combination of physical and abstract elements highlights how digital culture repurposes familiar concepts to create new meanings and functions in the online world.
 
 "Yearbook," on the other hand, combines "Year" and "Book" to denote a collection of memories, photos, and information associated with a specific time frame, typically within a school year. While "Facebook" takes inspiration from the concept of a yearbook, it reimagines it in a more dynamic, ever-updating format that transcends the limitations of time and space. The linguistic similarities between "Facebook" and "Yearbook" reflect a shared conceptual foundation, where both words evoke the idea of preserving and sharing personal history, but in vastly different contexts—one rooted in the physical and the other in the digital realm.
