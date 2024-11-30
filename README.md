@@ -143,7 +143,7 @@ In terms of overall expression, Springsteen’s features often convey a sense of
 #
 ### Mark Zuckerberg Roasted
 
-![Suckerburg_Ketchup](https://github.com/user-attachments/assets/874bf6e9-44a2-4b29-84d5-c6143ffb5310)
+![Suckerburg_Ketchup](https://github.com/user-attachments/assets/ea2bef57-1464-431e-a6f8-b4e60b0eab73)
 
 Mark Zuckerberg looking like Bruce Springsteen is like a calculator trying to pass as a guitar. Springsteen’s got that rugged, rock-and-roll charisma—the kind that screams grit, sweat, and blue-collar Americana. Zuckerberg? Well, he’s got that wholesome tech-bro vibe, more likely to drop the latest software update than drop a hit single. The Boss could walk into any room and make you feel like you’re on the Jersey Shore with a cold beer in hand, while Zuck is more like the guy who shows up to remind you that the Wi-Fi needs a stronger password. If Bruce Springsteen looks like he’s ready to tell you stories about life, love, and heartbreak, Zuckerberg looks like he’s about to pitch a new app that collects your data and then tells you which Springsteen song you’re most like.
 
